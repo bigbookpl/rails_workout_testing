@@ -1,0 +1,10 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: Ferrari
+  speed: 350
+  age: 10
+
+two:
+  name: Opel
+  speed: 166
